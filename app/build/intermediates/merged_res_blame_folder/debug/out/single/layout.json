@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_order_step2.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_add_order_step2.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_order.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_order_step_1.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_add_order_step_1.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_car.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\item_car.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popupwindow_menu.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\popupwindow_menu.xml"
+    },
+    {
+        "merged": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_order_detial.xml",
+        "source": "D:\\Deakin\\SIT305\\Task10.1D\\Task10.1D\\app\\src\\main\\res\\layout\\activity_order_detial.xml"
+    }
+]
